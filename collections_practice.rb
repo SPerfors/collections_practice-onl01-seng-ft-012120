@@ -19,6 +19,10 @@ def swap_elements(num)
   num[1], num[2] = num[2], num[1]
 end
 
-def reverse_array(num)
-  num.reverse 
+def reverse_array(int)
+  int.reverse 
+end
+
+def kesha_maker(kesh)
+  int.reverse 
 end

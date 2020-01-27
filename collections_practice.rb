@@ -34,5 +34,4 @@ def find_a(string)
 end
 
 def sum_array(int)
-  int.reverse 
-end
+  int.inject { |sum, n| sum + n }

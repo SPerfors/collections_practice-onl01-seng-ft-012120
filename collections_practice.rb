@@ -38,6 +38,6 @@ def sum_array(int)
 end
 
 def add_s(array)
-  int.inject { |sum, n| sum + n }
+  [1,2].each_with_index.collect{|element, index| }
 end
 

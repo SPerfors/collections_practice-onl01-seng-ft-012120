@@ -29,5 +29,10 @@ def kesha_maker(kesh)
 end
 
 def find_a(string)
-  string.find_all
+  string.find_all do |word|
+    word[0] == "a"
+end
+
+def sum_array(int)
+  int.reverse 
 end

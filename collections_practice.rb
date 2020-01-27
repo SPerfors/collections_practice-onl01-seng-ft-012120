@@ -29,5 +29,5 @@ def kesha_maker(kesh)
 end
 
 def find_a(string)
-  int.reverse 
+  string.find_all
 end

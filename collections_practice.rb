@@ -25,5 +25,5 @@ end
 
 def kesha_maker(kesh)
   kesh.each do |item|
-    item
+    item{2} = "$"
 end

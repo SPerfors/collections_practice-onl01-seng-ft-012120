@@ -24,5 +24,5 @@ def reverse_array(int)
 end
 
 def kesha_maker(kesh)
-  int.reverse 
+  kesh.each do |name|
 end

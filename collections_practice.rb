@@ -27,3 +27,7 @@ def kesha_maker(kesh)
   kesh.each do |item|
     item{2} = "$"
 end
+
+def find_a(string)
+  int.reverse 
+end
